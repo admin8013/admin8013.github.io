@@ -1,0 +1,1 @@
+{"version":3,"file":"isLegacyPool.d.ts","sourceRoot":"","sources":["../../src/utils/isLegacyPool.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,oBAAoB,EAAE,cAAc,EAAE,sBAAsB,EAAE,MAAM,UAAU,CAAA;AAEvF,wBAAgB,YAAY,CAAC,IAAI,EAAE,cAAc,GAAG,IAAI,IAAI,oBAAoB,CAK/E;AAED,wBAAgB,cAAc,CAAC,IAAI,EAAE,cAAc,GAAG,IAAI,IAAI,sBAAsB,CAKnF"}

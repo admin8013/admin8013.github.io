@@ -1,0 +1,1 @@
+{"version":3,"file":"blockConflictTolerance.d.ts","sourceRoot":"","sources":["../../src/constants/blockConflictTolerance.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,qBAAqB,CAAA;AAE7C,eAAO,MAAM,gCAAgC,IAAI,CAAA;AAEjD,eAAO,MAAM,wBAAwB,EAAE;KAAG,GAAG,IAAI,OAAO,CAAC,CAAC,EAAE,MAAM;CAoBjE,CAAA"}
